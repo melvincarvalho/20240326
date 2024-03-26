@@ -7,6 +7,7 @@ rename index.md to logseq style
 
 first public gitmark
 final webid definition - https://lists.w3.org/Archives/Public/public-webid/2024Mar/0024.html
+add amount to webvouchers - https://github.com/solidpayorg/webvouchers/issues/48
 
 ## other
 
