@@ -1,5 +1,7 @@
 ## todo
 
+add public git repo
+
 ## done
 
 first public gitmark
