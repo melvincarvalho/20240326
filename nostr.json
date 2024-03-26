@@ -1,14 +1,1 @@
-{
-  "id": "186a5257de14377840fc9f95ffe42b9ca815294dd5911cd469b7dcc2fa2b431a",
-  "pubkey": "13821e373e1268f90b5aa919dc1da7fc68d261a399bea9ce9dd3f5a8609258c1",
-  "created_at": 1711444259,
-  "kind": 617,
-  "tags": [
-    [
-      "c",
-      "txo:vtc:78a5a3c4415ccc6b9766cf64289e448719b5a7ef4ba9485693441c14d0181f61:8"
-    ]
-  ],
-  "content": "genesis: ambeba 20240326",
-  "sig": "b45ab2255859fe9a6fff5da6a659663eba772e16321a282a49187dea6dc55775309b5e6b3e7bf535667ddc23821ef9e929f74fbbaeac5e809ae88cc3bf10a8f9"
-}
+{"id":"850cc92087defcce5772cfd873e66c863b8ccdb1357de1f81349d1afe74a5ab4","pubkey":"13821e373e1268f90b5aa919dc1da7fc68d261a399bea9ce9dd3f5a8609258c1","created_at":1711448970,"kind":617,"tags":[["c","txo:vtc:78a5a3c4415ccc6b9766cf64289e448719b5a7ef4ba9485693441c14d0181f61:8"],["r","https://melvincarvalho.com:4444"],["u","https://melvincarvalho.com/ameba/20240326/"]],"content":"genesis: ambeba 20240326","sig":"3dac9a772c682b4638fa1d7875daa875d1abcbf8ac2c859665c5731794cdc66212a50d3164d4a92032a646b4559e76d0a53015e77b1935c85e97481c5cc44c79"}
